@@ -19,9 +19,13 @@ I used `git clone` with the ssh url to clone my fork of the repository from my G
 ![image](https://github.com/Klein-Shen/LabReport4/assets/165833763/50df8023-42eb-4872-8011-2b9a2320c29d)
 
 `ls<Enter>`
+
 `cd<space>lab7<Enter>`
+
 `ls<Enter>`
+
 `<Ctrl + Shift + V><Enter>`
+
 `<Ctrl + Shift + V><Back><Back><Back><Back><Back><Back><Back><Back><Back><Back>ListExamplesTests<Enter>`
 
 `ls` is to see do I have the lab7 folder, then `cd` the folder, then `ls` to see what I have there. `<Ctrl + Shift + V>` copy the `javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java`from the week4 lab;
@@ -33,6 +37,7 @@ the second copied the `java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar
 
 
 `vim<space>ListExamples.java<Enter>` 
+
 `<down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><E><A><Back><2><ESC>:wq`
 
 `vim`the `ListExamples.java` is to use vim to edit the code file in the ssh local terminal.
@@ -45,6 +50,7 @@ the second copied the `java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar
 ![image](https://github.com/Klein-Shen/LabReport4/assets/165833763/06659170-2777-4242-87d3-c9f1ccd9aec0)
 
 `<up><up><up><Enter>`
+
 `<up><up><up><Enter>`
 
 First three `<up>` and `<Enter>` is to find the command I used before to javac those file. The second is to find the old command to run the test.
@@ -55,7 +61,9 @@ First three `<up>` and `<Enter>` is to find the command I used before to javac t
 ![image](https://github.com/Klein-Shen/LabReport4/assets/165833763/55d31c7a-ee67-441d-8a83-a9575c24f1aa)
 
 `git<space>add<space>.<Enter>`
+
 `git<space>commit<space>-m<space>"Some<space>concise<space>message<space>describing<space>the<space>change"<Enter>`
+
 `git<space>push<space>origin<space>main<Enter>`
 
 I used the command from lab4 `git add .` to add them to the staging area.
