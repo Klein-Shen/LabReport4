@@ -19,13 +19,13 @@ I used `git clone` with the ssh url to clone my fork of the repository from my G
 ![image](https://github.com/Klein-Shen/LabReport4/assets/165833763/50df8023-42eb-4872-8011-2b9a2320c29d)
 
 `ls` `<Enter>`
-`cd <lab7>` `<Enter>`
+`cd lab7` `<Enter>`
 `ls` `<Enter>`
 `<Ctrl + Shift + V>` `<Enter>`
 `<Ctrl + Shift + V>` `<Back>` `<Back>` `<Back>` `<Back>` `<Back>` `<Back>` `<Back>` `<Back>` `<Back>` `<Back>` `ListExamplesTests` `<Enter>`
 
 `ls` is to see do I have the lab7 folder, then `cd` the folder, then `ls` to see what I have there. `<Ctrl + Shift + V>` copy the `javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java`from the week4 lab;
-the second copied the `java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ArrayTests` then use `<Back>` 10 times to delete `ArrayTests` and then add the `ListExamplesTests` terminal.
+the second copied the `java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ArrayTests` then use `<Back>` 10 times to delete `ArrayTests` and then add the `ListExamplesTests` to the last and then run the test.
 
 # Step 7
 
