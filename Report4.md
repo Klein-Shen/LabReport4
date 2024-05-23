@@ -36,7 +36,7 @@ the second copied the `java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar
 43 * `<down>` `<E>` `<A>` `<Back>` `<2>` `<ESC>` `:wq`
 
 `vim ListExamples.java` is to use vim to edit the code file in the ssh local terminal.
-43 * `<down>` since the line we need to change is in the 44 line, and I start at line 1.
+43 * `<down>` since the line we need to change is in the line 44, and I start at line 1.
 `<E>` is to move the cursor to the next word's end.
 `<A>` is to move the cursor to the next and change to the `--INSERT--` mode; then used `<Back>` to delete 1, and add `<2>`, then `<ESC>` to leave` the `--INSERT--` mode, at last use `:wq` to save and exit.
 
