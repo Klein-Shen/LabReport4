@@ -66,6 +66,6 @@ First three `<up>` and `<Enter>` is to find the command I used before to javac t
 
 `git<space>push<space>origin<space>main<Enter>`
 
-I used the command from lab4 `git add .` to add them to the staging area.
+I used the command from lab4 `git<space>add<space>.` to add them to the staging area.
 `git<space>commit` to commit them to the repository.
 `git<space>push` to push the files for the changes to actually appear on GitHubm.
